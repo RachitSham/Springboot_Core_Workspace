@@ -1,0 +1,22 @@
+{"properties": [
+  {
+    "name": "cust.info.cust-no",
+    "type": "java.lang.String",
+    "description": "A description for 'cust.info.cust-no'"
+  },
+  {
+    "name": "cust.info.custName",
+    "type": "java.lang.String",
+    "description": "A description for 'cust.info.custName'"
+  },
+  {
+    "name": "cust.info.custAddrs",
+    "type": "java.lang.String",
+    "description": "A description for 'cust.info.custAddrs'"
+  },
+  {
+    "name": "cust.info.billAmt",
+    "type": "java.lang.String",
+    "description": "A description for 'cust.info.billAmt'"
+  }
+]}
