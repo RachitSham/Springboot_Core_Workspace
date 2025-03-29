@@ -1,0 +1,37 @@
+# Employee Info
+org:
+  nit:
+    # Simple Properties
+    empNo: 1001
+    empName: Santosh
+
+    # Array Properties
+    favColors:
+        - red
+        - blue
+        - black
+
+    # List Collection
+    nickNames:
+        - chinni
+        - cheenu
+        - kuku
+
+    # Set Collections
+    phoneNumbers: 
+       - 99999999
+       - 88888888
+       - 77777777
+
+    # Map Collections
+    idDetails:
+      aadhar: 890765432134
+      voter: 99965ADGS
+      pancard: MIOPS09871OP   
+
+    # Has-A-Property (Company Object)
+    company:
+       id: 89076
+       name: Mastercard
+       addrs: Pune
+       size: 40000

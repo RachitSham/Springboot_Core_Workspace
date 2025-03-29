@@ -1,0 +1,67 @@
+{"properties": [
+  {
+    "name": "org.nit",
+    "type": "java.lang.String",
+    "description": "A description for 'org.nit'"
+  },
+  {
+    "name": "org.empNo",
+    "type": "java.lang.String",
+    "description": "A description for 'org.empNo'"
+  },
+  {
+    "name": "org.empName",
+    "type": "java.lang.String",
+    "description": "A description for 'org.empName'"
+  },
+  {
+    "name": "org.favColors",
+    "type": "java.lang.String",
+    "description": "A description for 'org.favColors'"
+  },
+  {
+    "name": "org.nickNames",
+    "type": "java.lang.String",
+    "description": "A description for 'org.nickNames'"
+  },
+  {
+    "name": "org.phoneNumbers",
+    "type": "java.lang.String",
+    "description": "A description for 'org.phoneNumbers'"
+  },
+  {
+    "name": "org.idDetails.aadhar",
+    "type": "java.lang.String",
+    "description": "A description for 'org.idDetails.aadhar'"
+  },
+  {
+    "name": "org.company.id",
+    "type": "java.lang.String",
+    "description": "A description for 'org.company.id'"
+  },
+  {
+    "name": "org.company.name",
+    "type": "java.lang.String",
+    "description": "A description for 'org.company.name'"
+  },
+  {
+    "name": "org.company.addrs",
+    "type": "java.lang.String",
+    "description": "A description for 'org.company.addrs'"
+  },
+  {
+    "name": "org.company.size",
+    "type": "java.lang.String",
+    "description": "A description for 'org.company.size'"
+  },
+  {
+    "name": "org.idDetails.voter",
+    "type": "java.lang.String",
+    "description": "A description for 'org.idDetails.voter'"
+  },
+  {
+    "name": "org.idDetails.pancard",
+    "type": "java.lang.String",
+    "description": "A description for 'org.idDetails.pancard'"
+  }
+]}
